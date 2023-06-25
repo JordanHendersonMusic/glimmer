@@ -1,10 +1,11 @@
 # glimmer
 Glimmer is for baraoque flute and synchronised video projection.
 
-[![Video](https://img.youtube.com/vi/MUc52c5S_Eo/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=JMUc52c5S_Eo)
+[Full Score](glimmer.pdf)
 
-[Score](glimmer.pdf)
+[![Video](https://img.youtube.com/vi/MUc52c5S_Eo/maxresdefault.jpg)](https://www.youtube.com/watch?v=MUc52c5S_Eo)
+
+
 
 ### Making the score
 run lilypond on main.ly
